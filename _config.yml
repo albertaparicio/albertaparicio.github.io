@@ -1,7 +1,7 @@
 # Site specific settings
-title: "Title to this website"
-name: "Website name"
-keywords: "Key, words, about, this, website"
+title: "Albert Aparicio"
+name: "Albert Aparicio Personal Site"
+keywords: "albert, aparicio, personal, site"
 baseurl: ""
 url: "https://albertaparicio.github.io/"
 description: "Website description"
