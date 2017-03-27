@@ -28,9 +28,9 @@ header, nav {
 	font-weight: bold;
 }
 
-.logo {
-	font: 10px/5px monospace;
-}
+/*.logo {*/
+        /*font: 10px/5px monospace;*/
+/*}*/
 
 nav ul {
 	display: block;

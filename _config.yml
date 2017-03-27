@@ -26,3 +26,4 @@ ssl: false # It will redirect to https
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
+repository: albertaparicio/albertaparicio.gitlab.io
