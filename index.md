@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# $ cat about.txt
+# $ about.txt
 {:id="about"}
 
 This is a theme intended to use to [lampiaosec](https://lampiaosec.github.io). So, it's our taste, but because we like free culture, it's free to.
